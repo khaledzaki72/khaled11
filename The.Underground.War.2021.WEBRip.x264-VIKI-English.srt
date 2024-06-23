@@ -1,0 +1,3243 @@
+﻿1
+00:00:19,417 --> 00:00:20,332
+Maintenance Team 3
+
+2
+00:00:20,333 --> 00:00:21,499
+The specified area has been reached
+
+3
+00:00:21,500 --> 00:00:22,500
+For maintenance
+
+4
+00:00:24,750 --> 00:00:26,250
+Please report any damage found
+
+5
+00:00:28,917 --> 00:00:30,166
+Why is the valve broken again
+
+6
+00:00:30,167 --> 00:00:31,542
+It was fixed the other day
+
+7
+00:00:32,875 --> 00:00:34,541
+Found thermostatic pipe No. 42.
+
+8
+00:00:34,542 --> 00:00:35,457
+The valve is damaged
+
+9
+00:00:35,458 --> 00:00:36,458
+It is being replaced.
+
+10
+00:00:46,542 --> 00:00:48,792
+Tell rose we're done
+
+11
+00:01:19,667 --> 00:01:20,332
+How are things going over there
+
+12
+00:01:20,333 --> 00:01:21,453
+All going well and moving on
+
+13
+00:01:41,167 --> 00:01:42,500
+If we want to survive
+
+14
+00:01:43,792 --> 00:01:45,167
+we have to get the medicine
+
+15
+00:01:50,167 --> 00:01:51,583
+Be quick and agile, everyone
+
+16
+00:01:53,375 --> 00:01:54,374
+Pack it all up
+
+17
+00:01:54,375 --> 00:01:55,916
+One team is responsible for supplies
+
+18
+00:01:55,917 --> 00:01:57,197
+the other teams organize defense
+
+19
+00:01:57,542 --> 00:01:58,166
+Hurry up here
+
+20
+00:01:58,167 --> 00:01:59,166
+Here comes Kuroba
+
+21
+00:01:59,167 --> 00:02:00,767
+Get the drug sample and quickly evacuate
+
+22
+00:02:01,417 --> 00:02:02,977
+Everyone has to stick to the passageway
+
+23
+00:02:03,583 --> 00:02:05,000
+to buy time for the evacuation
+
+24
+00:02:05,667 --> 00:02:06,541
+Get some more fences.
+
+25
+00:02:06,542 --> 00:02:07,542
+Speed up
+
+26
+00:02:25,625 --> 00:02:27,000
+antitank grenade
+
+27
+00:02:33,458 --> 00:02:35,125
+The rest of you get on top
+
+28
+00:02:37,583 --> 00:02:38,583
+Zhuoya
+
+29
+00:02:41,333 --> 00:02:42,333
+Zhuoya
+
+30
+00:02:45,000 --> 00:02:45,957
+Don't be afraid
+
+31
+00:02:45,958 --> 00:02:46,958
+We'll be fine
+
+32
+00:02:47,792 --> 00:02:48,792
+go
+
+33
+00:03:29,750 --> 00:03:32,292
+Unprecedented solar storms erupt
+
+34
+00:03:33,417 --> 00:03:35,667
+and the flow of particles ravages the earth
+
+35
+00:03:37,417 --> 00:03:40,416
+Under the action of strong
+radiation and high temperature
+
+36
+00:03:40,417 --> 00:03:41,697
+The surface became scorched soil
+
+37
+00:03:43,417 --> 00:03:46,250
+Mankind suffered the
+greatest catastrophe in histor
+
+38
+00:03:47,292 --> 00:03:49,833
+Survivors were forced to sleep underground
+
+39
+00:03:51,125 --> 00:03:55,292
+waiting for the earth to
+recover in the long night
+
+40
+00:03:59,417 --> 00:04:01,292
+Start the wake-up program
+
+41
+00:04:12,833 --> 00:04:14,999
+Fang Yi, captain of the C40 guarantee,
+
+42
+00:04:15,000 --> 00:04:17,458
+has been dormant for 788 days
+
+43
+00:05:06,875 --> 00:05:08,625
+dad
+
+44
+00:05:23,625 --> 00:05:24,625
+what
+
+45
+00:05:25,583 --> 00:05:27,183
+Two years is not enough for you to sleep
+
+46
+00:05:29,500 --> 00:05:30,500
+You look so bad
+
+47
+00:05:33,625 --> 00:05:34,667
+I would rather
+
+48
+00:05:35,208 --> 00:05:36,333
+never wake up
+
+49
+00:06:04,750 --> 00:06:05,833
+Cover me
+
+50
+00:06:19,375 --> 00:06:20,124
+captain
+
+51
+00:06:20,125 --> 00:06:21,625
+The shield is losing its hold
+
+52
+00:06:57,500 --> 00:06:58,500
+help! Ask for help
+
+53
+00:06:58,750 --> 00:07:00,207
+Base 825 has fallen
+
+54
+00:07:00,208 --> 00:07:01,332
+Request support
+
+55
+00:07:01,333 --> 00:07:02,791
+Base 825 has fallen
+
+56
+00:07:02,792 --> 00:07:03,792
+Request support
+
+57
+00:07:34,667 --> 00:07:36,832
+Hello, C40 long Night team
+
+58
+00:07:36,833 --> 00:07:37,957
+This is the highest command authority
+
+59
+00:07:37,958 --> 00:07:38,999
+of the long Night Plan
+
+60
+00:07:39,000 --> 00:07:39,791
+artificial Intelligence
+
+61
+00:07:39,792 --> 00:07:40,792
+long Night Light
+
+62
+00:07:41,333 --> 00:07:42,332
+According to the provisions of
+Article 2 of the third paragraph
+
+63
+00:07:42,333 --> 00:07:43,749
+of the dormant Security rotation Agreement
+
+64
+00:07:43,750 --> 00:07:45,624
+in the long Night Plan
+
+65
+00:07:45,625 --> 00:07:47,374
+To wake you up urgently
+
+66
+00:07:47,375 --> 00:07:49,125
+requires you to fulfill your obligations
+
+67
+00:07:49,750 --> 00:07:50,750
+Go ahead
+
+68
+00:07:50,875 --> 00:07:52,249
+What's the tricky thing again
+
+69
+00:07:52,250 --> 00:07:53,791
+The goal of this mission
+
+70
+00:07:53,792 --> 00:07:55,207
+is to infiltrate and destroy
+
+71
+00:07:55,208 --> 00:07:56,291
+the experimental facilities
+
+72
+00:07:56,292 --> 00:07:57,957
+in the 825 secret refuge
+
+73
+00:07:57,958 --> 00:07:59,041
+five kilometers away
+
+74
+00:07:59,042 --> 00:08:00,542
+through the underground secret tunnel
+
+75
+00:08:01,542 --> 00:08:02,958
+the 825 refuge
+
+76
+00:08:04,083 --> 00:08:05,708
+How come I've never heard of it
+
+77
+00:08:06,542 --> 00:08:07,791
+Shelter 825
+
+78
+00:08:07,792 --> 00:08:08,916
+is a genetic drug research center
+
+79
+00:08:08,917 --> 00:08:11,207
+established for the black feather project
+
+80
+00:08:11,208 --> 00:08:13,042
+which has been kept confidential
+
+81
+00:08:13,708 --> 00:08:15,874
+Isn't there a long night team on duty
+
+82
+00:08:15,875 --> 00:08:18,125
+The duty team has completely lost contact
+
+83
+00:08:19,167 --> 00:08:20,958
+Why destroy this sanctuary
+
+84
+00:08:21,792 --> 00:08:23,874
+Four hours ago, the 825 shelter was invaded
+
+85
+00:08:23,875 --> 00:08:25,416
+by the black feather club
+
+86
+00:08:25,417 --> 00:08:27,791
+and the team on duty
+had completely lost contact
+
+87
+00:08:27,792 --> 00:08:29,291
+The experimental drugs
+and research materials
+
+88
+00:08:29,292 --> 00:08:30,749
+could not be left to the black feather club
+
+89
+00:08:30,750 --> 00:08:32,150
+and had to be completely destroyed.
+
+90
+00:08:34,792 --> 00:08:36,125
+How to destroy the entire base
+
+91
+00:08:36,917 --> 00:08:38,250
+and what about survivors
+
+92
+00:08:38,792 --> 00:08:40,708
+There is no possibility of survivors
+
+93
+00:08:41,417 --> 00:08:43,541
+You need to enter the central control room
+
+94
+00:08:43,542 --> 00:08:45,102
+to initiate the self-destruct sequence.
+
+95
+00:08:45,958 --> 00:08:48,042
+Kuroha has made sufficient preparations
+
+96
+00:08:48,875 --> 00:08:49,875
+As you can see
+
+97
+00:08:50,417 --> 00:08:51,417
+there are only six of me
+
+98
+00:08:52,417 --> 00:08:53,791
+The most important thing for me
+
+99
+00:08:53,792 --> 00:08:55,792
+is that my team members can live safely
+
+100
+00:08:56,542 --> 00:08:57,582
+Why can't we start
+
+101
+00:08:57,583 --> 00:08:58,863
+the remote self-destruct program
+
+102
+00:08:59,542 --> 00:09:00,583
+No permission
+
+103
+00:09:01,833 --> 00:09:02,833
+No permission
+
+104
+00:09:05,750 --> 00:09:07,458
+Is there anything you can't control
+
+105
+00:09:08,958 --> 00:09:10,207
+Two hours later
+
+106
+00:09:10,208 --> 00:09:11,666
+There will be another long-night team
+
+107
+00:09:11,667 --> 00:09:13,457
+Feint 825 refuge
+
+108
+00:09:13,458 --> 00:09:15,249
+the main enemy will withdraw temporarily
+
+109
+00:09:15,250 --> 00:09:16,999
+There is not much time left for you
+
+110
+00:09:17,000 --> 00:09:19,000
+so set out immediately when you are ready
+
+111
+00:09:26,375 --> 00:09:27,542
+Get ready to go to work
+
+112
+00:09:51,042 --> 00:09:52,792
+Where is the medicine for Kuroha's disease
+
+113
+00:09:53,792 --> 00:09:56,833
+I don't understand
+what you're talking about
+
+114
+00:09:57,417 --> 00:09:59,208
+Where is TG927
+
+115
+00:10:28,542 --> 00:10:29,750
+Who told you to shoot
+
+116
+00:10:30,958 --> 00:10:32,458
+I think he is useless
+
+117
+00:10:35,208 --> 00:10:37,541
+It's up to me
+
+118
+00:10:37,542 --> 00:10:38,958
+Mind your own business
+
+119
+00:10:44,083 --> 00:10:45,417
+Find this girl
+
+120
+00:10:48,042 --> 00:10:49,750
+and bring her back alive
+
+121
+00:10:53,750 --> 00:10:55,042
+If you want to live
+
+122
+00:10:55,708 --> 00:10:56,832
+find the medicine right away
+
+123
+00:10:56,833 --> 00:10:57,875
+Find this girl
+
+124
+00:10:58,875 --> 00:10:59,875
+Immediately
+
+125
+00:11:23,458 --> 00:11:24,458
+Zhuo Ya, don't look
+
+126
+00:11:40,375 --> 00:11:41,457
+Didn't the night light
+
+127
+00:11:41,458 --> 00:11:42,499
+take over the underground city completely
+
+128
+00:11:42,500 --> 00:11:43,749
+completely
+
+129
+00:11:43,750 --> 00:11:46,166
+actually，there are places
+beyond its jurisdiction
+
+130
+00:11:46,167 --> 00:11:47,847
+let us run so far to carry out the mission
+
+131
+00:11:49,667 --> 00:11:51,667
+It's better to walk than to kill you
+
+132
+00:11:53,208 --> 00:11:54,792
+Do whatever you are told to do
+
+133
+00:11:56,500 --> 00:11:57,500
+Captain
+
+134
+00:11:57,833 --> 00:11:58,749
+don't you think
+
+135
+00:11:58,750 --> 00:12:00,541
+the reaction of the
+long night light just now
+
+136
+00:12:00,542 --> 00:12:01,583
+is a bit strange
+
+137
+00:12:02,542 --> 00:12:03,667
+This mission
+
+138
+00:12:04,500 --> 00:12:06,540
+is related to the failure
+of the black plume project
+
+139
+00:12:07,417 --> 00:12:09,657
+After the long night light
+took over the underground city
+
+140
+00:12:10,000 --> 00:12:12,125
+no one ever mentioned the Kuroha plan again
+
+141
+00:12:13,250 --> 00:12:14,791
+about this sanctuary
+
+142
+00:12:14,792 --> 00:12:16,749
+We know nothing
+
+143
+00:12:16,750 --> 00:12:18,166
+The people in Kuroha Club
+
+144
+00:12:18,167 --> 00:12:20,047
+usually leave as soon as
+they grab some supplies
+
+145
+00:12:21,292 --> 00:12:22,624
+This time
+
+146
+00:12:22,625 --> 00:12:24,345
+they kill all the original teams over there
+
+147
+00:12:25,750 --> 00:12:26,750
+There must have been
+
+148
+00:12:27,542 --> 00:12:28,958
+a premeditation here
+
+149
+00:12:30,750 --> 00:12:32,208
+Isn't that dangerous
+
+150
+00:12:33,708 --> 00:12:34,874
+No matter how dangerous the job is
+
+151
+00:12:34,875 --> 00:12:35,916
+you have to do it
+
+152
+00:12:35,917 --> 00:12:36,874
+otherwise
+
+153
+00:12:36,875 --> 00:12:38,635
+there is no place for
+your dormancy warehouse
+
+154
+00:12:39,708 --> 00:12:41,082
+You can go back if you want to quit.
+
+155
+00:12:41,083 --> 00:12:41,624
+There's a bunch of people in the back
+
+156
+00:12:41,625 --> 00:12:43,999
+waiting for your position.
+
+157
+00:12:44,000 --> 00:12:46,125
+I just want to live
+
+158
+00:12:48,917 --> 00:12:50,291
+If you want to live
+
+159
+00:12:50,292 --> 00:12:51,792
+you have to get the job done
+
+160
+00:12:56,667 --> 00:12:57,667
+Don't move
+
+161
+00:13:02,458 --> 00:13:03,458
+Relax
+
+162
+00:13:33,500 --> 00:13:34,500
+Leon
+
+163
+00:13:45,583 --> 00:13:47,623
+now that we have discovered
+the booby trap in Kuroha
+
+164
+00:13:48,042 --> 00:13:49,333
+it means we are almost there
+
+165
+00:13:50,833 --> 00:13:52,333
+Get ready to work, everyone
+
+166
+00:14:09,417 --> 00:14:11,833
+Brothers, no one will die in vain.
+
+167
+00:14:13,583 --> 00:14:14,624
+Colonel
+
+168
+00:14:14,625 --> 00:14:16,583
+we haven't heard from the girl yet.
+
+169
+00:14:19,833 --> 00:14:21,249
+Keep looking
+
+170
+00:14:21,250 --> 00:14:23,832
+Aren't we looking for medicine this time
+
+171
+00:14:23,833 --> 00:14:25,708
+What does it have to do with this girl
+
+172
+00:14:30,042 --> 00:14:31,625
+Since Dr. Chen committed suicide
+
+173
+00:14:32,250 --> 00:14:33,582
+some people have been engaged in
+
+174
+00:14:33,583 --> 00:14:35,417
+the research of the Kuroha experiment plan
+
+175
+00:14:36,500 --> 00:14:38,249
+The girl in the photo
+
+176
+00:14:38,250 --> 00:14:39,957
+is Dr. Chen's student
+
+177
+00:14:39,958 --> 00:14:40,958
+Her name is Enron
+
+178
+00:14:42,042 --> 00:14:43,457
+and she is the only one
+
+179
+00:14:43,458 --> 00:14:45,258
+who participated in the
+Kuroha experiment plan
+
+180
+00:14:46,208 --> 00:14:47,208
+If we find her
+
+181
+00:14:47,792 --> 00:14:49,000
+we will find the medicine.
+
+182
+00:14:50,792 --> 00:14:53,250
+So the girl has the potion
+
+183
+00:14:55,667 --> 00:14:58,000
+As long as we find the
+girl, we can be saved
+
+184
+00:14:59,250 --> 00:15:00,667
+We have to find her
+
+185
+00:15:19,542 --> 00:15:20,542
+come on
+
+186
+00:15:37,667 --> 00:15:38,667
+go
+
+187
+00:15:40,708 --> 00:15:44,875
+We were attacked in the No. 5 area
+
+188
+00:15:45,625 --> 00:15:47,832
+Our team was attacked
+
+189
+00:15:47,833 --> 00:15:50,582
+Yes, sector five was attacked
+
+190
+00:15:50,583 --> 00:15:52,792
+faster than expected
+
+191
+00:15:55,125 --> 00:15:56,125
+ok
+
+192
+00:15:57,208 --> 00:15:59,042
+The game begins
+
+193
+00:16:08,000 --> 00:16:09,375
+Searching area five
+
+194
+00:16:10,458 --> 00:16:11,249
+Zhuo Ya
+
+195
+00:16:11,250 --> 00:16:13,124
+This thing is very important
+
+196
+00:16:13,125 --> 00:16:14,749
+You must hide it
+
+197
+00:16:14,750 --> 00:16:15,582
+If someone finds you
+
+198
+00:16:15,583 --> 00:16:16,583
+and wants to take it
+
+199
+00:16:17,042 --> 00:16:18,499
+you destroy it
+
+200
+00:16:18,500 --> 00:16:19,500
+okay
+
+201
+00:16:20,625 --> 00:16:21,625
+good
+
+202
+00:16:22,375 --> 00:16:23,375
+come on
+
+203
+00:16:56,208 --> 00:16:57,291
+Team C40
+
+204
+00:16:57,292 --> 00:16:58,812
+has arrived at the designated position
+
+205
+00:16:59,792 --> 00:17:01,457
+In order to assist your actions
+
+206
+00:17:01,458 --> 00:17:02,916
+Team Feint has been dispatched
+
+207
+00:17:02,917 --> 00:17:04,416
+to attack sector 5.
+
+208
+00:17:04,417 --> 00:17:06,207
+The main force of Kuroha
+has been transferred
+
+209
+00:17:06,208 --> 00:17:08,166
+you must resolve the battle
+
+210
+00:17:08,167 --> 00:17:09,374
+before the enemy retreats.
+
+211
+00:17:09,375 --> 00:17:10,416
+According to the calculation
+
+212
+00:17:10,417 --> 00:17:11,832
+you only have 15 minutes
+
+213
+00:17:11,833 --> 00:17:12,707
+for the mission.
+
+214
+00:17:12,708 --> 00:17:13,708
+Yes
+
+215
+00:17:34,833 --> 00:17:35,582
+There are twelve enemies
+
+216
+00:17:35,583 --> 00:17:36,582
+in the central control room
+
+217
+00:17:36,583 --> 00:17:38,103
+a little more than previously expected
+
+218
+00:17:38,917 --> 00:17:39,917
+Liu Huo, Genna
+
+219
+00:17:40,167 --> 00:17:42,249
+shoot under cover from above
+
+220
+00:17:42,250 --> 00:17:43,582
+Genna is in charge of the starting line-up
+
+221
+00:17:43,583 --> 00:17:44,874
+killing the guard at the door.
+
+222
+00:17:44,875 --> 00:17:46,542
+Leon and I will take the left
+
+223
+00:17:47,208 --> 00:17:48,041
+Mike
+
+224
+00:17:48,042 --> 00:17:49,832
+You and Duan Yishan
+take charge of the right side.
+
+225
+00:17:49,833 --> 00:17:51,153
+Whether the enemy is down or not,
+
+226
+00:17:51,917 --> 00:17:52,917
+never forget
+
+227
+00:17:53,583 --> 00:17:55,624
+to reload on the enemy's vital areas.
+
+228
+00:17:55,625 --> 00:17:56,707
+Got it all?
+
+229
+00:17:56,708 --> 00:17:57,874
+Yes
+
+230
+00:17:57,875 --> 00:17:58,666
+Check the watch
+
+231
+00:17:58,667 --> 00:17:59,707
+check the weapons
+
+232
+00:17:59,708 --> 00:18:00,833
+and leave in three minutes
+
+233
+00:18:10,750 --> 00:18:11,916
+Your stuff
+
+234
+00:18:11,917 --> 00:18:13,624
+can only block pistol bullets
+
+235
+00:18:13,625 --> 00:18:15,499
+They all use automatic rifles.
+
+236
+00:18:15,500 --> 00:18:16,499
+It's useless,
+
+237
+00:18:16,500 --> 00:18:17,374
+and
+
+238
+00:18:17,375 --> 00:18:19,292
+don't hold me back
+
+239
+00:18:27,208 --> 00:18:28,208
+Whether it works or not
+
+240
+00:18:28,833 --> 00:18:29,917
+it's better than nothing
+
+241
+00:19:29,542 --> 00:19:30,542
+Fire
+
+242
+00:19:58,500 --> 00:19:59,500
+Mike
+
+243
+00:20:25,875 --> 00:20:26,875
+Duan Yishan
+
+244
+00:20:27,375 --> 00:20:28,457
+You log in system
+
+245
+00:20:28,458 --> 00:20:29,658
+Settings self-destruct program
+
+246
+00:20:30,292 --> 00:20:31,666
+The rest of you are on alert
+
+247
+00:20:31,667 --> 00:20:32,667
+and ready to evacuate
+
+248
+00:20:42,333 --> 00:20:44,292
+C40 team calls long night light
+
+249
+00:20:46,083 --> 00:20:48,000
+self-destruct program has been set up
+
+250
+00:20:49,250 --> 00:20:50,833
+The countdown begins in one hour
+
+251
+00:20:51,875 --> 00:20:52,749
+ok
+
+252
+00:20:52,750 --> 00:20:53,957
+Mission accomplished
+
+253
+00:20:53,958 --> 00:20:54,958
+We can evacuate.
+
+254
+00:21:40,500 --> 00:21:41,500
+Stop
+
+255
+00:21:42,792 --> 00:21:43,792
+stop
+
+256
+00:22:36,375 --> 00:22:37,791
+It's not our job
+
+257
+00:22:37,792 --> 00:22:39,167
+It's gonna get us killed.
+
+258
+00:22:40,333 --> 00:22:42,213
+The Long Night Light
+says there are no survivors
+
+259
+00:22:42,833 --> 00:22:44,250
+It seems to be miscalculated.
+
+260
+00:22:55,958 --> 00:22:58,207
+This is Fang Yi, captain of the C40 team
+
+261
+00:22:58,208 --> 00:22:59,625
+Please identify yourself
+
+262
+00:23:00,292 --> 00:23:01,333
+I'm the director of
+
+263
+00:23:01,875 --> 00:23:03,124
+the A7 lab in Sanctuary 825
+
+264
+00:23:03,125 --> 00:23:04,125
+Enron
+
+265
+00:23:04,708 --> 00:23:06,041
+how are you
+
+266
+00:23:06,042 --> 00:23:07,042
+Can you walk by yourself
+
+267
+00:23:09,292 --> 00:23:10,291
+Take her
+
+268
+00:23:10,292 --> 00:23:11,292
+We'll evacuate.
+
+269
+00:23:12,000 --> 00:23:12,999
+Wait a minute
+
+270
+00:23:13,000 --> 00:23:14,000
+We can't leave
+
+271
+00:23:15,042 --> 00:23:16,083
+We have to go
+
+272
+00:23:16,833 --> 00:23:18,457
+The self-destruct device has been activated
+
+273
+00:23:18,458 --> 00:23:19,874
+and this place will be in ruins
+
+274
+00:23:19,875 --> 00:23:20,875
+in an hour
+
+275
+00:23:28,875 --> 00:23:29,749
+Did the long night light
+
+276
+00:23:29,750 --> 00:23:31,124
+send you to destroy this place
+
+277
+00:23:31,125 --> 00:23:32,417
+I don't need to report to you
+
+278
+00:23:33,625 --> 00:23:34,625
+Please get out of the way
+
+279
+00:23:48,042 --> 00:23:49,042
+stop
+
+280
+00:23:49,792 --> 00:23:50,792
+Put down the gun
+
+281
+00:24:12,125 --> 00:24:13,750
+Do you know what you're doing
+
+282
+00:24:14,375 --> 00:24:15,207
+I just want you
+
+283
+00:24:15,208 --> 00:24:16,208
+to hear me out
+
+284
+00:24:21,083 --> 00:24:23,208
+Next time, raise your gun
+when you are fully confident
+
+285
+00:24:26,417 --> 00:24:27,916
+Since you are here
+
+286
+00:24:27,917 --> 00:24:28,749
+you should know that
+
+287
+00:24:28,750 --> 00:24:29,499
+this is a drug research center
+
+288
+00:24:29,500 --> 00:24:30,708
+for Kuroha
+
+289
+00:24:31,667 --> 00:24:32,957
+The results of our research
+
+290
+00:24:32,958 --> 00:24:34,875
+are a matter of fate for all
+
+291
+00:24:37,292 --> 00:24:38,292
+seriously
+
+292
+00:24:38,417 --> 00:24:39,749
+Then I'll tell you that
+
+293
+00:24:39,750 --> 00:24:41,582
+the Kuroha project has failed
+
+294
+00:24:41,583 --> 00:24:43,166
+People who have been injected with drugs
+
+295
+00:24:43,167 --> 00:24:45,000
+can live under the
+surface of high radiation
+
+296
+00:24:45,625 --> 00:24:47,457
+but their life span will
+be greatly shortened
+
+297
+00:24:47,458 --> 00:24:48,999
+Like the people of Kuroha Society
+
+298
+00:24:49,000 --> 00:24:50,582
+this study is meaningless
+
+299
+00:24:50,583 --> 00:24:51,499
+The failure of the Kuroha project
+
+300
+00:24:51,500 --> 00:24:53,291
+was caused by the long night light
+
+301
+00:24:53,292 --> 00:24:54,166
+and now we have
+
+302
+00:24:54,167 --> 00:24:55,249
+new research results
+
+303
+00:24:55,250 --> 00:24:57,166
+The new drug won't have any side effects
+
+304
+00:24:57,167 --> 00:24:58,416
+Humans have a chance to end dormancy
+
+305
+00:24:58,417 --> 00:24:59,583
+and return to the ground.
+
+306
+00:25:00,875 --> 00:25:02,124
+I don't believe it
+
+307
+00:25:02,125 --> 00:25:02,749
+This can't
+
+308
+00:25:02,750 --> 00:25:03,999
+be true
+
+309
+00:25:04,000 --> 00:25:04,707
+Otherwise, why would Kuroha
+
+310
+00:25:04,708 --> 00:25:06,124
+bother to come here
+
+311
+00:25:06,125 --> 00:25:06,749
+I hid my medicine on a child
+
+312
+00:25:06,750 --> 00:25:08,541
+named Zhuoya
+
+313
+00:25:08,542 --> 00:25:09,541
+We must find her
+
+314
+00:25:09,542 --> 00:25:10,541
+and get the sample back
+
+315
+00:25:10,542 --> 00:25:12,041
+This is the hope of all mankind
+
+316
+00:25:12,042 --> 00:25:12,999
+Do you want to live
+
+317
+00:25:13,000 --> 00:25:14,750
+in the dark underground forever
+
+318
+00:26:01,667 --> 00:26:02,667
+Brother
+
+319
+00:26:03,333 --> 00:26:04,707
+our work has been finished
+
+320
+00:26:04,708 --> 00:26:06,228
+and now we should immediately withdraw
+
+321
+00:26:06,917 --> 00:26:08,208
+to the ground
+
+322
+00:26:08,750 --> 00:26:09,917
+and end the dormancy
+
+323
+00:26:12,208 --> 00:26:13,957
+Long Night Light won't agree
+
+324
+00:26:13,958 --> 00:26:14,957
+We'll lose support
+
+325
+00:26:14,958 --> 00:26:16,124
+It's too risky to do so
+
+326
+00:26:16,125 --> 00:26:17,082
+It's just a program
+
+327
+00:26:17,083 --> 00:26:17,791
+We're people
+
+328
+00:26:17,792 --> 00:26:19,249
+If we don't obey orders
+
+329
+00:26:19,250 --> 00:26:20,874
+everyone will lose their dormancy rights
+
+330
+00:26:20,875 --> 00:26:22,125
+and we may all die here
+
+331
+00:26:32,583 --> 00:26:33,916
+What is most important to us
+
+332
+00:26:33,917 --> 00:26:35,500
+in life
+
+333
+00:26:38,125 --> 00:26:39,625
+is not a dark underground city
+
+334
+00:26:40,917 --> 00:26:42,542
+not a cold dormant warehouse
+
+335
+00:26:44,958 --> 00:26:46,333
+but our family
+
+336
+00:26:46,958 --> 00:26:47,958
+lovers
+
+337
+00:26:48,292 --> 00:26:49,292
+and friends
+
+338
+00:26:50,375 --> 00:26:51,417
+What's the point of
+
+339
+00:26:52,875 --> 00:26:53,624
+living alone
+
+340
+00:26:53,625 --> 00:26:54,625
+in this world
+
+341
+00:26:55,750 --> 00:26:56,707
+I will do it
+
+342
+00:26:56,708 --> 00:26:58,028
+as long as there is a little hope
+
+343
+00:26:59,167 --> 00:27:00,167
+of saving mankind
+
+344
+00:27:03,417 --> 00:27:04,458
+Your job is done
+
+345
+00:27:05,625 --> 00:27:06,625
+Liu Huo
+
+346
+00:27:06,833 --> 00:27:07,833
+took everyone to evacuate
+
+347
+00:27:08,583 --> 00:27:09,983
+and Enron and I went to save people
+
+348
+00:27:12,667 --> 00:27:13,708
+I'm not leaving
+
+349
+00:27:14,667 --> 00:27:15,708
+I'll follow the captain
+
+350
+00:27:33,000 --> 00:27:34,000
+I order
+
+351
+00:27:34,167 --> 00:27:35,374
+team C40
+
+352
+00:27:35,375 --> 00:27:36,417
+to take on a new mission
+
+353
+00:27:37,333 --> 00:27:38,792
+to find and rescue Zhuoya
+
+354
+00:27:39,375 --> 00:27:40,875
+get the medicine and evacuate safely
+
+355
+00:27:41,417 --> 00:27:44,041
+Temporarily cut off contact
+with the long night light
+
+356
+00:27:44,042 --> 00:27:45,082
+we switch to
+
+357
+00:27:45,083 --> 00:27:46,208
+individual communicator
+
+358
+00:27:52,125 --> 00:27:53,541
+Where is Zhuoya now
+
+359
+00:27:53,542 --> 00:27:54,782
+In the warehouse in District 15
+
+360
+00:27:56,000 --> 00:27:57,000
+let's go
+
+361
+00:28:03,792 --> 00:28:05,417
+Grenades
+
+362
+00:28:26,333 --> 00:28:27,333
+Leon
+
+363
+00:28:27,833 --> 00:28:28,833
+Leon
+
+364
+00:28:29,917 --> 00:28:31,041
+Why don't you shoot him again
+
+365
+00:28:31,042 --> 00:28:32,042
+Leon
+
+366
+00:28:33,833 --> 00:28:34,833
+Leon
+
+367
+00:28:35,167 --> 00:28:36,041
+Leon
+
+368
+00:28:36,042 --> 00:28:37,167
+stop the bleeding
+
+369
+00:28:37,875 --> 00:28:39,291
+morphine
+
+370
+00:28:39,292 --> 00:28:40,374
+I'm dying
+
+371
+00:28:40,375 --> 00:28:41,833
+Brother, hold on
+
+372
+00:28:43,667 --> 00:28:44,582
+Leon
+
+373
+00:28:44,583 --> 00:28:45,332
+Leon
+
+374
+00:28:45,333 --> 00:28:46,541
+Leon, answer me
+
+375
+00:28:46,542 --> 00:28:47,542
+answer me
+
+376
+00:28:48,208 --> 00:28:49,124
+Brother
+
+377
+00:28:49,125 --> 00:28:50,166
+Leon
+
+378
+00:28:50,167 --> 00:28:51,167
+hold on
+
+379
+00:28:51,750 --> 00:28:52,750
+hold on
+
+380
+00:28:53,250 --> 00:28:54,791
+You're gonna be okay.
+
+381
+00:28:54,792 --> 00:28:56,041
+I'm going home
+
+382
+00:28:56,042 --> 00:28:57,042
+Leon
+
+383
+00:28:57,125 --> 00:28:58,125
+Leon
+
+384
+00:28:58,417 --> 00:28:59,249
+Leon
+
+385
+00:28:59,250 --> 00:29:00,250
+Leon
+
+386
+00:29:09,458 --> 00:29:10,458
+Leon
+
+387
+00:29:13,333 --> 00:29:14,166
+Captain
+
+388
+00:29:14,167 --> 00:29:14,874
+the enemy is coming
+
+389
+00:29:14,875 --> 00:29:15,875
+We have to go
+
+390
+00:29:16,292 --> 00:29:18,208
+Captain, we have to go
+
+391
+00:29:19,042 --> 00:29:20,042
+I see
+
+392
+00:29:22,417 --> 00:29:23,417
+I ordered us
+
+393
+00:29:24,042 --> 00:29:25,042
+to evacuate
+
+394
+00:30:26,917 --> 00:30:28,291
+The attack just now
+
+395
+00:30:28,292 --> 00:30:30,124
+was to attract our attention
+
+396
+00:30:30,125 --> 00:30:33,333
+there has been a long
+night light team sneaked in
+
+397
+00:30:40,833 --> 00:30:42,875
+I underestimated the long night light
+
+398
+00:30:44,083 --> 00:30:46,292
+It has completely controlled human beings
+
+399
+00:30:48,625 --> 00:30:50,458
+Their purpose is the same as ours
+
+400
+00:30:51,458 --> 00:30:53,833
+They can't leave alive.
+
+401
+00:31:24,750 --> 00:31:25,750
+Take cover!
+
+402
+00:32:37,792 --> 00:32:38,666
+Duan Yishan
+
+403
+00:32:38,667 --> 00:32:39,749
+find a way to get us out!
+
+404
+00:32:39,750 --> 00:32:40,750
+Be quick!
+
+405
+00:32:41,333 --> 00:32:42,333
+Okay.
+
+406
+00:32:47,583 --> 00:32:48,249
+Captain
+
+407
+00:32:48,250 --> 00:32:49,374
+We can follow the direction of 9 o'clock.
+
+408
+00:32:49,375 --> 00:32:50,707
+There was a detour.
+
+409
+00:32:50,708 --> 00:32:51,750
+All right, I got it.
+
+410
+00:32:53,458 --> 00:32:54,749
+Mike, Liu Huo, Gina
+
+411
+00:32:54,750 --> 00:32:56,041
+You pin down them and hold the position.
+
+412
+00:32:56,042 --> 00:32:57,122
+We have to go find someone.
+
+413
+00:32:57,792 --> 00:32:58,457
+Clear.
+
+414
+00:32:58,458 --> 00:32:59,583
+Yes
+
+415
+00:33:04,708 --> 00:33:05,707
+Duan Yishan, you go first.
+
+416
+00:33:05,708 --> 00:33:06,708
+Come on.
+
+417
+00:33:07,083 --> 00:33:08,083
+Let ' s go.
+
+418
+00:33:09,500 --> 00:33:10,500
+Quickly
+
+419
+00:35:51,083 --> 00:35:52,083
+Zhuo Ya
+
+420
+00:35:53,292 --> 00:35:54,292
+Zhuo Ya
+
+421
+00:35:55,417 --> 00:35:56,417
+Zhuo Ya
+
+422
+00:35:58,167 --> 00:35:59,167
+Zhuo Ya
+
+423
+00:36:04,250 --> 00:36:05,582
+Oh no, she must be in trouble!
+
+424
+00:36:05,583 --> 00:36:06,832
+Hold on.
+
+425
+00:36:06,833 --> 00:36:07,833
+Don't worry
+
+426
+00:36:08,333 --> 00:36:09,453
+Kuroba is still looking for.
+
+427
+00:36:09,792 --> 00:36:11,272
+I don't think she has been found yet.
+
+428
+00:36:12,583 --> 00:36:13,457
+Captain.
+
+429
+00:36:13,458 --> 00:36:14,082
+There are a lot of enemies.
+
+430
+00:36:14,083 --> 00:36:15,083
+They are coming our way.
+
+431
+00:36:15,708 --> 00:36:15,999
+Besides,
+
+432
+00:36:16,000 --> 00:36:17,000
+we don't have much time.
+
+433
+00:36:20,083 --> 00:36:20,957
+We have arrived at the reservation area.
+
+434
+00:36:20,958 --> 00:36:21,958
+Conduct a search.
+
+435
+00:36:27,375 --> 00:36:28,541
+No target found.
+
+436
+00:36:28,542 --> 00:36:29,332
+Repeat.
+
+437
+00:36:29,333 --> 00:36:30,333
+No target found!
+
+438
+00:36:36,292 --> 00:36:37,625
+They had more than one team.
+
+439
+00:36:38,208 --> 00:36:40,583
+Our guys in A area were taken out.
+
+440
+00:36:48,208 --> 00:36:49,708
+They are only buying time.
+
+441
+00:36:51,250 --> 00:36:52,500
+Stuff in the A section.
+
+442
+00:36:54,583 --> 00:36:55,583
+Grizzly,
+
+443
+00:36:56,250 --> 00:36:57,250
+find them.
+
+444
+00:36:58,292 --> 00:36:59,292
+Wait
+
+445
+00:37:01,417 --> 00:37:02,417
+Colonel,
+
+446
+00:37:03,250 --> 00:37:05,207
+It's better for me
+
+447
+00:37:05,208 --> 00:37:06,528
+to do this kind of brainstorming.
+
+448
+00:37:11,958 --> 00:37:12,958
+Well.
+
+449
+00:37:14,208 --> 00:37:15,208
+But remember
+
+450
+00:37:17,417 --> 00:37:18,537
+I want to see the live ones.
+
+451
+00:37:21,958 --> 00:37:22,958
+I can see that.
+
+452
+00:37:23,292 --> 00:37:24,333
+I totally understand.
+
+453
+00:37:35,458 --> 00:37:37,166
+C40 team member Liu Huo,
+
+454
+00:37:37,167 --> 00:37:38,542
+please receive new mission.
+
+455
+00:37:47,958 --> 00:37:49,292
+I finally found you.
+
+456
+00:37:50,875 --> 00:37:51,582
+If we continue to do this,
+
+457
+00:37:51,583 --> 00:37:52,916
+aimlessly looking,
+
+458
+00:37:52,917 --> 00:37:54,667
+it must be too late to retreat.
+
+459
+00:37:55,958 --> 00:37:57,707
+I think she ought to be scared,
+
+460
+00:37:57,708 --> 00:37:59,207
+You try to think more carefully，
+
+461
+00:37:59,208 --> 00:38:01,000
+where would she go at this time.
+
+462
+00:38:02,542 --> 00:38:03,982
+There is definitely a place she goes
+
+463
+00:38:04,583 --> 00:38:05,703
+when she is most frightened.
+
+464
+00:38:31,750 --> 00:38:33,125
+Until this shelter was abandoned,
+
+465
+00:38:33,750 --> 00:38:34,416
+she and her father,
+
+466
+00:38:34,417 --> 00:38:35,417
+had been living here.
+
+467
+00:38:36,083 --> 00:38:37,083
+So where is her father?
+
+468
+00:38:37,958 --> 00:38:38,958
+He killed himself.
+
+469
+00:38:44,000 --> 00:38:44,999
+The failure of the Kuroba project
+
+470
+00:38:45,000 --> 00:38:46,250
+dealt a big hit to the teacher.
+
+471
+00:38:47,917 --> 00:38:49,500
+He has paid everything for this plan.
+
+472
+00:38:51,083 --> 00:38:52,083
+Duan Yishan
+
+473
+00:39:01,375 --> 00:39:02,375
+I know,
+
+474
+00:39:02,917 --> 00:39:04,157
+you are talking about Dr. Chen.
+
+475
+00:39:21,292 --> 00:39:22,292
+Duan Yishan
+
+476
+00:39:22,542 --> 00:39:23,542
+Xiao Ya!
+
+477
+00:39:25,750 --> 00:39:27,249
+Don't take the shot.
+
+478
+00:39:27,250 --> 00:39:28,582
+Xiao Ya!
+
+479
+00:39:28,583 --> 00:39:29,583
+Drop the gun.
+
+480
+00:39:30,208 --> 00:39:31,124
+Let's just talk about it.
+
+481
+00:39:31,125 --> 00:39:32,125
+Chill out.
+
+482
+00:39:32,333 --> 00:39:34,249
+You bastard, set the child free.
+
+483
+00:39:34,250 --> 00:39:34,999
+How can you kidnap a child!
+
+484
+00:39:35,000 --> 00:39:36,166
+Oh, don't shoot.
+
+485
+00:39:36,167 --> 00:39:37,750
+I told you drop the gun.
+
+486
+00:39:38,375 --> 00:39:39,375
+Hey, wait a minute.
+
+487
+00:39:40,167 --> 00:39:41,624
+I can put the gun down.
+
+488
+00:39:41,625 --> 00:39:42,625
+You just let the kid go.
+
+489
+00:39:43,125 --> 00:39:44,125
+She's innocent.
+
+490
+00:39:44,750 --> 00:39:46,167
+Don't try to trick me.
+
+491
+00:39:47,458 --> 00:39:49,541
+You put the gun on the ground right now.
+
+492
+00:39:49,542 --> 00:39:51,375
+Or I'll kill her right now!
+
+493
+00:39:52,042 --> 00:39:52,582
+Xiao Ya
+
+494
+00:39:52,583 --> 00:39:53,583
+OK, I drop the gun.
+
+495
+00:40:05,000 --> 00:40:06,000
+Handgun,
+
+496
+00:40:17,500 --> 00:40:18,500
+kick it over.
+
+497
+00:40:21,667 --> 00:40:22,667
+Very well.
+
+498
+00:40:25,583 --> 00:40:26,583
+You,
+
+499
+00:40:27,375 --> 00:40:28,417
+do me a favor,
+
+500
+00:40:31,458 --> 00:40:32,583
+tie him up,
+
+501
+00:40:34,375 --> 00:40:35,375
+quickly.
+
+502
+00:40:37,958 --> 00:40:38,958
+Just do what he says.
+
+503
+00:40:39,750 --> 00:40:40,750
+Come on,
+
+504
+00:40:55,417 --> 00:40:56,542
+tie it tighter.
+
+505
+00:41:01,917 --> 00:41:02,917
+Good.
+
+506
+00:41:05,292 --> 00:41:06,707
+You know very clearly
+
+507
+00:41:06,708 --> 00:41:07,792
+what I want.
+
+508
+00:41:11,417 --> 00:41:12,958
+Just bring me the stuff,
+
+509
+00:41:13,667 --> 00:41:14,667
+at least,
+
+510
+00:41:15,042 --> 00:41:16,667
+this kid will survive.
+
+511
+00:41:17,333 --> 00:41:18,666
+Otherwise,
+
+512
+00:41:18,667 --> 00:41:19,667
+you can think of
+
+513
+00:41:21,083 --> 00:41:22,541
+what a pity it would be.
+
+514
+00:41:22,542 --> 00:41:23,791
+You bastard,
+
+515
+00:41:23,792 --> 00:41:25,124
+I'm the only one who can
+tell you where the stuff is.
+
+516
+00:41:25,125 --> 00:41:26,249
+Let Xiao Ya out of here.
+
+517
+00:41:26,250 --> 00:41:27,250
+Shut up.
+
+518
+00:42:09,250 --> 00:42:10,792
+Lily died,
+
+519
+00:42:11,583 --> 00:42:13,833
+Xiao Ya has no friends,
+
+520
+00:42:15,708 --> 00:42:17,250
+present you a new friend,
+
+521
+00:42:17,875 --> 00:42:18,875
+his name is Jimmy.
+
+522
+00:42:24,542 --> 00:42:25,582
+Don't worry.
+
+523
+00:42:25,583 --> 00:42:26,917
+Where is the stuff I gave you?
+
+524
+00:42:34,167 --> 00:42:36,457
+Black Wolf has cut off communication.
+
+525
+00:42:36,458 --> 00:42:37,618
+We are unable to contact him.
+
+526
+00:42:41,292 --> 00:42:43,500
+I had given him a chance.
+
+527
+00:42:48,667 --> 00:42:49,667
+Well, let's go.
+
+528
+00:42:57,583 --> 00:42:59,457
+Now that Zhuoya has injected the medicine,
+
+529
+00:42:59,458 --> 00:43:00,207
+we must be hurry
+
+530
+00:43:00,208 --> 00:43:01,124
+and get her to a safe place
+
+531
+00:43:01,125 --> 00:43:02,750
+so we can get a sample from her blood.
+
+532
+00:43:03,792 --> 00:43:04,792
+Let's go.
+
+533
+00:43:19,333 --> 00:43:20,207
+Captain,
+
+534
+00:43:20,208 --> 00:43:21,041
+there are just,
+
+535
+00:43:21,042 --> 00:43:22,166
+less than twenty minutes left,
+
+536
+00:43:22,167 --> 00:43:23,291
+and at the speed we're going,
+
+537
+00:43:23,292 --> 00:43:24,542
+we can't escape the blast.
+
+538
+00:43:25,542 --> 00:43:26,374
+Try to think of
+
+539
+00:43:26,375 --> 00:43:27,375
+what eles you can do
+
+540
+00:43:30,250 --> 00:43:31,541
+by transient high voltage,
+
+541
+00:43:31,542 --> 00:43:32,624
+overloading the computer
+
+542
+00:43:32,625 --> 00:43:34,166
+temporarily disabling the system,
+
+543
+00:43:34,167 --> 00:43:35,625
+which could buy us some time.
+
+544
+00:43:36,958 --> 00:43:37,624
+Mike, Liu huo,
+
+545
+00:43:37,625 --> 00:43:38,499
+you hold the position.
+
+546
+00:43:38,500 --> 00:43:39,249
+Gina,
+
+547
+00:43:39,250 --> 00:43:40,791
+you go to the central
+control room right away,
+
+548
+00:43:40,792 --> 00:43:42,512
+and Duan Yishan will show you how to do it.
+
+549
+00:43:43,042 --> 00:43:43,749
+Gina,
+
+550
+00:43:43,750 --> 00:43:44,582
+I'll cover you.
+
+551
+00:43:44,583 --> 00:43:45,332
+Let's go.
+
+552
+00:43:45,333 --> 00:43:46,333
+Yes
+
+553
+00:47:27,417 --> 00:47:28,541
+I'm now here,
+
+554
+00:47:28,542 --> 00:47:29,666
+what should I do?
+
+555
+00:47:29,667 --> 00:47:31,267
+Open the shield under the control panel,
+
+556
+00:47:37,750 --> 00:47:38,666
+the third layer.
+
+557
+00:47:38,667 --> 00:47:40,457
+The third layer is the
+electromagnetic control switch.
+
+558
+00:47:40,458 --> 00:47:42,083
+Turn off 4 to 7 circuits first
+
+559
+00:47:46,042 --> 00:47:47,707
+and pull out the bottom row of power.
+
+560
+00:47:47,708 --> 00:47:48,999
+There is one red lever next to it,
+
+561
+00:47:49,000 --> 00:47:50,000
+pull down it.
+
+562
+00:47:57,458 --> 00:47:58,458
+We're in safe for now.
+
+563
+00:48:02,583 --> 00:48:03,583
+All hands.
+
+564
+00:48:03,875 --> 00:48:05,155
+Assemble at the rendezvous point
+
+565
+00:48:05,625 --> 00:48:06,625
+and prepare to pull out.
+
+566
+00:48:11,292 --> 00:48:12,292
+Let's go.
+
+567
+00:48:43,208 --> 00:48:44,457
+Are you all right, sister?
+
+568
+00:48:44,458 --> 00:48:45,458
+It's fine.
+
+569
+00:48:48,875 --> 00:48:49,875
+Are you thirsty?
+
+570
+00:48:59,125 --> 00:49:00,405
+You two better drink some water,
+
+571
+00:49:02,042 --> 00:49:03,042
+come on.
+
+572
+00:49:10,250 --> 00:49:11,874
+The meeting point is just ahead,
+
+573
+00:49:11,875 --> 00:49:12,955
+so hold on a moment longer.
+
+574
+00:49:16,042 --> 00:49:17,166
+Captain,
+
+575
+00:49:17,167 --> 00:49:18,291
+this time,
+
+576
+00:49:18,292 --> 00:49:19,732
+will the Long Night Light punish us?
+
+577
+00:49:20,500 --> 00:49:21,542
+We did nothing wrong.
+
+578
+00:49:24,208 --> 00:49:26,168
+Do you guys still believe
+in the Long Night Light?
+
+579
+00:49:27,000 --> 00:49:28,666
+The collapse of the
+Kuroha Project back then
+
+580
+00:49:28,667 --> 00:49:29,749
+was due to
+
+581
+00:49:29,750 --> 00:49:30,999
+the awakening of the Long
+Night Light's self-awareness.
+
+582
+00:49:31,000 --> 00:49:32,720
+They wanted to control the whole human race
+
+583
+00:49:33,292 --> 00:49:34,999
+to change the drug formula,
+
+584
+00:49:35,000 --> 00:49:36,720
+which led to the failure of the experiment,
+
+585
+00:49:38,375 --> 00:49:39,895
+thus Zhuo Ya's father killing himself.
+
+586
+00:49:40,417 --> 00:49:41,457
+No wonder the Long Night Light
+
+587
+00:49:41,458 --> 00:49:42,875
+trying to ruin everything here.
+
+588
+00:49:45,042 --> 00:49:46,442
+As long as Zhuo ya is brought back,
+
+589
+00:49:46,958 --> 00:49:47,499
+it is equivalent to,
+
+590
+00:49:47,500 --> 00:49:48,740
+the success of the Kuroha plan.
+
+591
+00:49:49,250 --> 00:49:50,457
+We can completely take over
+
+592
+00:49:50,458 --> 00:49:51,917
+all permissions of Long Night Light.
+
+593
+00:49:53,958 --> 00:49:55,207
+That means
+
+594
+00:49:55,208 --> 00:49:56,888
+anyone who gets a sample of the drug gets,
+
+595
+00:49:57,375 --> 00:49:58,375
+who gets
+
+596
+00:49:58,917 --> 00:50:00,357
+the control of the Long Night Light.
+
+597
+00:50:20,375 --> 00:50:21,707
+Self-destruct program reboot.
+
+598
+00:50:21,708 --> 00:50:22,875
+Did something happen to Gina?
+
+599
+00:50:31,542 --> 00:50:32,542
+What you asked me to do,
+
+600
+00:50:33,333 --> 00:50:34,333
+I did.
+
+601
+00:50:36,000 --> 00:50:36,999
+But my mom,
+
+602
+00:50:37,000 --> 00:50:38,208
+the time she was dormant,
+
+603
+00:50:39,208 --> 00:50:40,208
+must be extended.
+
+604
+00:50:42,208 --> 00:50:43,500
+Requests can be accepted
+
+605
+00:50:44,208 --> 00:50:46,042
+But one more task has to be completed.
+
+606
+00:50:46,917 --> 00:50:48,125
+Kill all the people,
+
+607
+00:50:48,750 --> 00:50:50,333
+including your squad members.
+
+608
+00:51:19,000 --> 00:51:19,749
+Captain,
+
+609
+00:51:19,750 --> 00:51:21,291
+We are too late.
+
+610
+00:51:21,292 --> 00:51:22,292
+I know that.
+
+611
+00:51:23,125 --> 00:51:24,375
+Our pressing task now is
+
+612
+00:51:25,083 --> 00:51:27,000
+to find a place with a complex structure
+
+613
+00:51:27,708 --> 00:51:29,028
+and try to find a way to survive.
+
+614
+00:51:34,542 --> 00:51:35,542
+Captain,
+
+615
+00:51:38,875 --> 00:51:39,875
+take cover.
+
+616
+00:51:42,083 --> 00:51:43,500
+Duan Yishan
+
+617
+00:51:48,292 --> 00:51:49,292
+Duan Yishan
+
+618
+00:51:55,583 --> 00:51:56,583
+Duan Yishan
+
+619
+00:52:01,875 --> 00:52:03,750
+return my belongings to me.
+
+620
+00:53:55,917 --> 00:53:56,917
+Uncle.
+
+621
+00:54:04,750 --> 00:54:05,750
+Zhuo Ya
+
+622
+00:54:06,583 --> 00:54:07,583
+Are you hurt?
+
+623
+00:54:18,750 --> 00:54:19,792
+C40 squad.
+
+624
+00:54:20,958 --> 00:54:22,000
+Does anyone hear me？
+
+625
+00:54:23,208 --> 00:54:24,292
+C40 squad.
+
+626
+00:54:25,500 --> 00:54:26,625
+Does anyone hear me？
+
+627
+00:54:57,458 --> 00:54:58,458
+Zhuo Ya
+
+628
+00:54:59,458 --> 00:55:00,583
+look here.
+
+629
+00:55:01,250 --> 00:55:02,250
+Take this,
+
+630
+00:55:03,542 --> 00:55:05,292
+follow the red arrow above
+
+631
+00:55:06,292 --> 00:55:07,500
+and it will take you out.
+
+632
+00:55:11,833 --> 00:55:12,999
+Uncle,
+
+633
+00:55:13,000 --> 00:55:15,000
+are you abandoning me？
+
+634
+00:55:20,292 --> 00:55:21,207
+Zhuo Ya
+
+635
+00:55:21,208 --> 00:55:23,624
+When my dad left me back then,
+
+636
+00:55:23,625 --> 00:55:25,624
+he had the same look on his face.
+
+637
+00:55:25,625 --> 00:55:27,667
+I don't want to go alone.
+
+638
+00:56:11,625 --> 00:56:12,625
+Hello!
+
+639
+00:56:14,167 --> 00:56:15,167
+Can anybody hear me?
+
+640
+00:56:16,208 --> 00:56:17,208
+Hello!
+
+641
+00:56:17,750 --> 00:56:18,750
+Can anybody hear me?
+
+642
+00:56:20,542 --> 00:56:21,750
+Enron, is that you?
+
+643
+00:56:22,500 --> 00:56:23,500
+How are you doing?
+
+644
+00:56:24,458 --> 00:56:25,458
+I'm fine.
+
+645
+00:56:26,333 --> 00:56:27,707
+This area is blocked off.
+
+646
+00:56:27,708 --> 00:56:28,749
+Where's Zhuo Ya?
+
+647
+00:56:28,750 --> 00:56:30,500
+Sister Enron, I'm fine.
+
+648
+00:56:31,375 --> 00:56:32,542
+She is beside me,
+
+649
+00:56:33,292 --> 00:56:34,207
+is safe
+
+650
+00:56:34,208 --> 00:56:35,208
+and not injured.
+
+651
+00:56:37,042 --> 00:56:39,042
+I will send a scout robot,
+
+652
+00:56:40,917 --> 00:56:42,166
+which will show you directions.
+
+653
+00:56:42,167 --> 00:56:43,167
+What about you?
+
+654
+00:56:45,250 --> 00:56:46,250
+You take Zhuo Ya,
+
+655
+00:56:47,292 --> 00:56:48,542
+go straight underground,
+
+656
+00:56:49,708 --> 00:56:51,588
+and you'll get to the
+Long Night team's outpost.
+
+657
+00:56:53,417 --> 00:56:54,416
+You have to stay here by yourself.
+
+658
+00:56:54,417 --> 00:56:55,874
+I'm injured,
+
+659
+00:56:55,875 --> 00:56:57,292
+so I can't take you out.
+
+660
+00:56:58,250 --> 00:56:59,166
+Fang Yi,
+
+661
+00:56:59,167 --> 00:57:00,416
+you said that as long
+as there is a ray of hope,
+
+662
+00:57:00,417 --> 00:57:01,624
+you will do it.
+
+663
+00:57:01,625 --> 00:57:03,042
+It's not time to get desperate.
+
+664
+00:57:03,750 --> 00:57:05,082
+I can't mess up for you.
+
+665
+00:57:05,083 --> 00:57:06,041
+Do you know
+
+666
+00:57:06,042 --> 00:57:08,332
+we're all going out together.
+
+667
+00:57:08,333 --> 00:57:09,333
+I'm sorry.
+
+668
+00:57:12,083 --> 00:57:13,832
+I can't protect you anymore.
+
+669
+00:57:13,833 --> 00:57:14,707
+Fang Yi
+
+670
+00:57:14,708 --> 00:57:15,582
+Fang Yi
+
+671
+00:57:15,583 --> 00:57:16,583
+no matter what you think,
+
+672
+00:57:17,292 --> 00:57:18,832
+Only by getting Zhuo Ya out of here
+
+673
+00:57:18,833 --> 00:57:20,499
+will all of our sacrifices be worthwhile,
+
+674
+00:57:20,500 --> 00:57:21,166
+Do you understand?
+
+675
+00:57:21,167 --> 00:57:22,167
+I…
+
+676
+00:57:22,542 --> 00:57:24,042
+We have all lost our loved ones,
+
+677
+00:57:24,750 --> 00:57:25,916
+but that is why
+
+678
+00:57:25,917 --> 00:57:26,582
+we have all the greater reason
+
+679
+00:57:26,583 --> 00:57:27,833
+to live well for them.
+
+680
+00:57:28,792 --> 00:57:30,042
+I will never abandon anyone.
+
+681
+00:57:30,833 --> 00:57:31,833
+You wait for me.
+
+682
+00:57:34,250 --> 00:57:35,374
+Uncle
+
+683
+00:57:35,375 --> 00:57:37,708
+can't we go out?
+
+684
+00:57:39,000 --> 00:57:40,792
+But I had promised my father that
+
+685
+00:57:41,333 --> 00:57:42,833
+I would stay alive.
+
+686
+00:57:55,125 --> 00:57:56,667
+Stay alive.
+
+687
+00:58:02,750 --> 00:58:03,957
+OK.
+
+688
+00:58:03,958 --> 00:58:06,166
+I'll go through the
+collapse area and join you.
+
+689
+00:58:06,167 --> 00:58:08,207
+We'll find you and help
+you treat your wounds,
+
+690
+00:58:08,208 --> 00:58:10,167
+and we'll take Zhuo Ya away with us.
+
+691
+00:58:53,083 --> 00:58:54,083
+Zhuo Ya
+
+692
+00:58:54,292 --> 00:58:56,041
+I'll get you out of here now
+
+693
+00:58:56,042 --> 00:58:57,042
+okay?
+
+694
+01:00:00,542 --> 01:00:01,541
+Stop,
+
+695
+01:00:01,542 --> 01:00:02,542
+there's someone up ahead.
+
+696
+01:00:05,208 --> 01:00:06,208
+Look around you,
+
+697
+01:00:06,667 --> 01:00:08,387
+do you have any weapons to defend yourself?
+
+698
+01:00:16,333 --> 01:00:17,375
+What should we do now？
+
+699
+01:00:18,375 --> 01:00:20,124
+It is your only way out,
+
+700
+01:00:20,125 --> 01:00:21,965
+and you have to find a
+way to get through here.
+
+701
+01:00:23,833 --> 01:00:24,833
+Take a look,
+
+702
+01:00:25,333 --> 01:00:26,625
+there's a button on the grip,
+
+703
+01:00:27,292 --> 01:00:28,207
+press it,
+
+704
+01:00:28,208 --> 01:00:29,528
+and see whether there's a bullet.
+
+705
+01:00:32,333 --> 01:00:33,333
+Yes.
+
+706
+01:00:33,500 --> 01:00:34,916
+Then push up the grip,
+
+707
+01:00:34,917 --> 01:00:36,291
+above the grip is the sleeve,
+
+708
+01:00:36,292 --> 01:00:37,292
+and pull it.
+
+709
+01:00:41,500 --> 01:00:42,249
+Now this gun
+
+710
+01:00:42,250 --> 01:00:43,708
+is already in an excited state.
+
+711
+01:00:44,750 --> 01:00:47,041
+We don't have time to train aiming.
+
+712
+01:00:47,042 --> 01:00:47,957
+Remember，
+
+713
+01:00:47,958 --> 01:00:49,041
+Don't panic!
+
+714
+01:00:49,042 --> 01:00:50,375
+Grip the gun with your hands
+
+715
+01:00:50,917 --> 01:00:52,249
+and lightly snap the trigger.
+
+716
+01:00:52,250 --> 01:00:53,374
+When you are shooting,
+
+717
+01:00:53,375 --> 01:00:54,975
+get as close to your target as possible.
+
+718
+01:00:56,083 --> 01:00:57,403
+But how do I approach the target?
+
+719
+01:00:59,500 --> 01:01:00,500
+Give me a second.
+
+720
+01:01:02,333 --> 01:01:03,874
+On that dead body just now,
+
+721
+01:01:03,875 --> 01:01:05,395
+there should be a night vision device.
+
+722
+01:01:10,417 --> 01:01:11,874
+You need to find this electric switch.
+
+723
+01:01:11,875 --> 01:01:14,041
+I'll use the scout droid to distract them,
+
+724
+01:01:14,042 --> 01:01:15,457
+and you pull down the switch.
+
+725
+01:01:15,458 --> 01:01:16,667
+It's the only chance.
+
+726
+01:01:43,792 --> 01:01:44,749
+Enron
+
+727
+01:01:44,750 --> 01:01:45,750
+are you okay?
+
+728
+01:01:48,625 --> 01:01:49,249
+Enron
+
+729
+01:01:49,250 --> 01:01:50,250
+what happened to you?
+
+730
+01:01:50,917 --> 01:01:52,167
+Are you all right, sister?
+
+731
+01:01:55,792 --> 01:01:56,792
+I'm OK.
+
+732
+01:01:57,458 --> 01:01:59,167
+Enron, we really need to hurry.
+
+733
+01:02:00,375 --> 01:02:01,707
+Follow the red arrows
+
+734
+01:02:01,708 --> 01:02:02,708
+on the manned display
+
+735
+01:02:03,000 --> 01:02:04,207
+we'll meet at the rendezvous point.
+
+736
+01:02:04,208 --> 01:02:05,208
+Okay.
+
+737
+01:02:24,083 --> 01:02:24,999
+Enron
+
+738
+01:02:25,000 --> 01:02:26,000
+where are you?
+
+739
+01:02:43,125 --> 01:02:43,458
+Enron
+
+740
+01:02:44,083 --> 01:02:45,083
+Enron
+
+741
+01:03:30,792 --> 01:03:32,082
+We just want to stay alive.
+
+742
+01:03:32,083 --> 01:03:33,541
+Why are you forcing us?
+
+743
+01:03:33,542 --> 01:03:35,262
+That's not a reason
+for you to kill someone.
+
+744
+01:04:03,542 --> 01:04:04,457
+The things I want
+
+745
+01:04:04,458 --> 01:04:06,416
+are supposed to be ours,
+
+746
+01:04:06,417 --> 01:04:07,792
+you have no right to judge me.
+
+747
+01:04:20,750 --> 01:04:22,150
+For the sake of the Kuroha Project,
+
+748
+01:04:22,792 --> 01:04:24,667
+we volunteered to be sacrificial victims.
+
+749
+01:04:25,250 --> 01:04:26,916
+And now I'm being like trash
+
+750
+01:04:26,917 --> 01:04:28,042
+and kicked away by you guys.
+
+751
+01:04:28,708 --> 01:04:29,708
+That's not true.
+
+752
+01:04:30,458 --> 01:04:31,833
+The drug has been developed.
+
+753
+01:04:32,792 --> 01:04:34,312
+It is in the blood of the little girl.
+
+754
+01:04:35,458 --> 01:04:36,458
+Lie.
+
+755
+01:04:37,167 --> 01:04:38,833
+You are the same as the Long Night Light,
+
+756
+01:04:39,583 --> 01:04:41,208
+full of lies.
+
+757
+01:05:01,458 --> 01:05:03,875
+I just want to get back my belongings.
+
+758
+01:05:05,417 --> 01:05:06,417
+You can't win.
+
+759
+01:05:20,208 --> 01:05:21,208
+Brother,
+
+760
+01:05:22,375 --> 01:05:23,792
+I have saved you once again.
+
+761
+01:05:25,292 --> 01:05:26,292
+Liu Huo
+
+762
+01:05:26,542 --> 01:05:27,542
+you are still alive,
+
+763
+01:05:28,000 --> 01:05:29,000
+have you seen Enron?
+
+764
+01:05:37,958 --> 01:05:39,038
+Liu Huo what are you doing?
+
+765
+01:05:46,125 --> 01:05:47,250
+What the hell are you doing?
+
+766
+01:05:48,042 --> 01:05:50,499
+I'm carrying out the commands
+of the Long Night Light.
+
+767
+01:05:50,500 --> 01:05:52,625
+What can the Long Night
+Light really do for you?
+
+768
+01:05:56,208 --> 01:05:57,208
+Brother,
+
+769
+01:05:58,333 --> 01:05:59,333
+as you said,
+
+770
+01:06:00,750 --> 01:06:01,875
+family is most important.
+
+771
+01:06:04,083 --> 01:06:05,083
+You lost your family,
+
+772
+01:06:05,833 --> 01:06:07,125
+but I still have.
+
+773
+01:06:08,542 --> 01:06:09,874
+The only thing that can keep them alive
+
+774
+01:06:09,875 --> 01:06:11,250
+is the light of the long night.
+
+775
+01:06:13,500 --> 01:06:14,916
+It lets me
+
+776
+01:06:14,917 --> 01:06:16,332
+kill everyone here,
+
+777
+01:06:16,333 --> 01:06:17,542
+but I don't want to.
+
+778
+01:06:19,750 --> 01:06:20,750
+Well.
+
+779
+01:06:21,667 --> 01:06:22,907
+Just hand over the little girl,
+
+780
+01:06:23,708 --> 01:06:24,666
+hand her over,
+
+781
+01:06:24,667 --> 01:06:25,958
+then we can go back together.
+
+782
+01:06:28,375 --> 01:06:29,375
+Liu Huo
+
+783
+01:06:30,167 --> 01:06:31,167
+I tell you,
+
+784
+01:06:31,958 --> 01:06:33,125
+you were fooled by it.
+
+785
+01:06:34,167 --> 01:06:35,749
+The Long Night Project
+to the Kuroha Warriors
+
+786
+01:06:35,750 --> 01:06:36,541
+is all a conspiracy.
+
+787
+01:06:36,542 --> 01:06:38,022
+All of them are trying to control us.
+
+788
+01:06:39,625 --> 01:06:40,792
+Now we have the drugs
+
+789
+01:06:42,250 --> 01:06:43,833
+to get back on the ground.
+
+790
+01:06:44,833 --> 01:06:46,875
+We have the best chance to change all this.
+
+791
+01:06:52,083 --> 01:06:53,083
+Okay.
+
+792
+01:06:54,250 --> 01:06:55,500
+Since you are so stubborn,
+
+793
+01:06:57,958 --> 01:06:59,292
+I will kill you first,
+
+794
+01:07:00,375 --> 01:07:01,375
+and then,
+
+795
+01:07:01,750 --> 01:07:03,417
+I will go find the little girl by myself.
+
+796
+01:07:40,875 --> 01:07:41,499
+Are you all right?
+
+797
+01:07:41,500 --> 01:07:42,500
+I'm fine
+
+798
+01:07:45,042 --> 01:07:46,875
+Sister Enron
+
+799
+01:07:47,625 --> 01:07:48,749
+Are you okay?
+
+800
+01:07:48,750 --> 01:07:49,750
+Don't worry.
+
+801
+01:08:26,125 --> 01:08:30,292
+Live on for us.
+
